@@ -77,4 +77,4 @@ cypress/
 
 ## 👨‍💻 Desenvolvedor
 
-- Sérgio Grisante# SwagLabs
+- Sérgio Grisante
