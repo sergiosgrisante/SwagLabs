@@ -50,6 +50,10 @@ Para rodar os testes no terminal (modo headless):
 
 ```bash
 npx cypress run
+```
+
+---
+
 
 ## 📂 Estrutura de Pastas
 
@@ -73,4 +77,4 @@ cypress/
 
 ## 👨‍💻 Desenvolvedor
 
-- Sérgio Grisante
+- Sérgio Grisante# SwagLabs
